@@ -3,6 +3,11 @@
 
 _A Discord bot that randomly finds anagrams in text channel messages_
 
+This bot watches messages in text channels, and randomly picks out some
+messages to search for anagrams. It then scans through short phrases from
+those messages, searching for combinations of common words that form anagrams
+of the chosen phrases, and sends a message in chat if one is found.
+
 ### Instructions
 
 1. Create a text file called `token.txt` containing the secure token for your
