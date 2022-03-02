@@ -8,7 +8,7 @@ messages to search for anagrams. It then scans through short phrases from
 those messages, searching for combinations of common words that form anagrams
 of the chosen phrases, and sends a message in chat if one is found.
 
-### Instructions
+## Instructions
 
 1. Create a text file called `token.txt` containing the secure token for your
    bot account. The bot will read the token from this file rather than keeping
