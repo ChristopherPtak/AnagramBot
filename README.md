@@ -3,7 +3,7 @@
 
 _A Discord bot that randomly finds anagrams in text channel messages_
 
-Status: **IN PROGRESS**
+Status: **FINISHED**
 
 ## Description
 
