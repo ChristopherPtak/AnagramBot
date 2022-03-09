@@ -1,7 +1,9 @@
 
-# Dice Mocker Bot
+# Anagram Bot
 
 _A Discord bot that randomly finds anagrams in text channel messages_
+
+Status: **IN PROGRESS**
 
 ## Description
 
