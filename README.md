@@ -3,8 +3,6 @@
 
 _A Discord bot that randomly finds anagrams in text channel messages_
 
-Status: **FINISHED**
-
 ## Description
 
 This bot watches messages in text channels, and randomly picks out some
